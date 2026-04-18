@@ -1,1 +1,0 @@
-Pull request é a solicitação para mesclar (merge) uma feature branch principal (main).
